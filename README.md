@@ -1,9 +1,13 @@
 # git-study
 
 git init # 初始化
+
 git add README.md  # 新建仓库需要
+
 git add .  # 添加所有文件
+
 git commit -m "first commit"
+
 git branch -M main  # 将分支变成main，取代传统的master
 ## 本地仓库与远程github关联
 git remote add origin https://github.com/Sydeboy/git-study.git 
