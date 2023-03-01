@@ -20,3 +20,5 @@ git --version
 git config --global init.defaultBranch main
 
 git reset . # 取消git add .操作
+
+git pull # 远程拉取到本地
