@@ -12,7 +12,7 @@ git branch -M main  # 将分支变成main，取代传统的master
 ## 本地仓库与远程github关联
 git remote add origin https://github.com/Sydeboy/git-study.git 
 ## 远程有readme.md，先拉一下
-git pull --rebase origin master
+git pull --rebase origin main
 
 git push -u origin main # 第一次提交需要u
 
